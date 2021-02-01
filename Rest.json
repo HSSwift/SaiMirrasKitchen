@@ -1,0 +1,156 @@
+[
+    {
+        "id":1001,
+        "name":"Chapathi",
+        "imageName":"Chapathi",
+        "description":"Chapathi is a type of roti bread that is served all around the world.It is made of of wheat flour, oil, and water. Rolled and placed on a tawa.",
+        "category":"Tiffin"
+    },
+    {
+        "id":1002,
+        "name":"Methi Paratha",
+        "imageName":"Methi-Paratha-3",
+        "description":"Methi Paratha is a healthy type of flaky bread that is made of fenugreek and spices. It is very healthy, and is served with Masala Curd and Lettuce.",
+        "category":"Tiffin"
+    },
+    {
+        "id":1003,
+        "name":"Aloo Paratha",
+        "imageName":"AlooParatha",
+        "description":"Aloo Paratha is a stuffed paratha made with cumin and potatoes. It is very healthy in nutrients, and is served with Masala Curd and Lettuce.",
+        "category":"Tiffin"
+    },
+    {
+        "id":1004,
+        "name":"Idli",
+        "imageName":"Idli",
+        "description":"Idli is one of the worlds healthiest foods to eat. It is a steamed lentil cake, with softness and fluffiness than a pillow. It is served with coconut chutney.",
+        "category":"Tiffin"
+    },
+    {
+        "id":1005,
+        "name":"Paniyaram",
+        "imageName":"Paniyaram",
+        "description":"A snack to a dinner, Paniyaram is great for everyone. It is made out of lentils, and crispy on the outside with fluffiness on the inside. Served with coconut chutney.",
+        "category":"Tiffin"
+    },
+    {
+        "id":1006,
+        "name":"Pongal",
+        "imageName":"Pongal",
+        "description":"Pongal is a great way to start your day. The presence of ghee and curry leaves make it so scrumptious. Great taste with cashews as well. Served with coconut chutney.",
+        "category":"Tiffin"
+    },
+    {
+        "id":1007,
+        "name":"Vegetable Rava Kichidi",
+        "imageName":"Kichidi",
+        "description":"A rava deliciousness. Filled with carrots, beans, and many more. Just a hint of ghee will make your day. Served with coconut chutney.",
+        "category":"Tiffin"
+    },
+    {
+        "id":1008,
+        "name":"Methi Corn Pulav",
+        "imageName":"MethiPulav",
+        "description":"A veg masala rice. Made with corn and methi. With the aroma of basmati rice and fresh masala. Served with onions and raita.",
+        "category":"Rice"
+    },
+    {
+        "id":1009,
+        "name":"Vegetable Biryani",
+        "imageName":"VegBiriyani",
+        "description":"A savory lunch, filled with steamed carrots, beans, and cauliflower. With the aroma of a traditional seeraga samba rice, this biriyani boasts due to it's in-house masala. This is served with raita and kurma.",
+        "category":"Rice"
+    },
+    {
+        "id":1010,
+        "name":"Chicken Biryani",
+        "imageName":"chkbiriyani",
+        "description":"This yummy biriyani is made up of organic chicken, amd filled with the most aromatic biryani rice ever, seeraga samba. With our in house masala, this day just gets better and is served with raita and kurma.",
+        "category":"Rice"
+    },
+    {
+        "id":1011,
+        "name":"Chilli Paneer",
+        "imageName":"chilpaneer",
+        "description":"Cottage cheese marinated in curd and fried, with sautted vegetables, this makes the perfect starter for vegetarians and non - vegetarians. Served with mint chutney and avocado dip.",
+        "category":"Appetizers"
+    },
+    {
+        "id":1012,
+        "name":"Cauliflower 65",
+        "imageName":"gobi65",
+        "description":"Cauliflower steamed and cooled, and then dipped in batter as fried in peanut oil. This crispy starter will leave the plate finished, and is served with mint chutney and avocado dip.",
+        "category":"Appetizers"
+    },
+    {
+        "id":1013,
+        "name":"Red Chicken Fry",
+        "imageName":"redchk",
+        "description":"Chicken cut into bite sized pieces and then marinated in spices and curd. Then pan seared to make it taste and feel elegant. Served with mint chutney and avocado dip.",
+        "category":"Appetizers"
+    },
+    {
+        "id":1014,
+        "name":"Egg Kurma",
+        "imageName":"eggkurma",
+        "description":"Slit eggs boiled and mixed with gravy. Made up of spices and coconut. Great for both rice and chapathi.",
+        "category":"Curries"
+    },
+    {
+        "id":1015,
+        "name":"Chicken Kheema",
+        "imageName":"chkkhema",
+        "description":"Chicken minced and made into a curry with great flavored curry leaves. Eat with anything of your choice.",
+        "category":"Curries"
+    },
+    {
+        "id":1016,
+        "name":"Sambar",
+        "imageName":"sambar",
+        "description":"A great South Indian way to start your day. Dal boiled with drumsticks and onions. A great taste with many dishes.",
+        "category":"Curries"
+    },
+    {
+        "id":1017,
+        "name":"Paneer Butter Masala",
+        "imageName":"paneermasala",
+        "description":"Cottage cheese gravy with methi and all creamy deliciousness. The best gravy to eat with any flaky bread.",
+        "category":"Curries"
+    },
+    {
+        "id":1018,
+        "name":"Carrot Cake",
+        "imageName":"carrotcake",
+        "description":"A beautiful cake made with fresh organic carrots. Soft and moist so much, you'll love it more than anything in the world. Served with cream cheese frosting, buttercream glaze, or just a plain one.",
+        "category":"Deserts"
+    },
+    {
+        "id":1019,
+        "name":"Banana Walnut Bread",
+        "imageName":"banana",
+        "description":"A soft and delicious cake. Filled with walnuts and raisins, and made just for you.",
+        "category":"Deserts"
+    },
+    {
+        "id":1020,
+        "name":"Orange Cake",
+        "imageName":"orange",
+        "description":"A great way to start your party. Made with juicy ripe oranges and zest too. A fluffy moisty cake just waiting to be devoured.",
+        "category":"Deserts"
+    },
+    {
+        "id":1021,
+        "name":"Gulab Jamun",
+        "imageName":"gj",
+        "description":"Fried flour balls soaked in warm sugar syrup. A common delicacy found in India. Topped with pistachios and saffron.",
+        "category":"Deserts"
+    },
+    {
+        "id":1022,
+        "name":"Jalebi",
+        "imageName":"ji",
+        "description":"An epic sweet found in almost every street of India. Juicy and hot, this will make you lick your fingers one by one. Fried mixture soaked in hot sugar syrup, just for you.",
+        "category":"Deserts"
+    }
+]
